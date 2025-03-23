@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Stylish T-Shirt",
+        "description": "A comfortable and stylish t-shirt for everyday wear.",
+        "price": 19.99,
+        "category": "Men",
+        "images": ["assets/images/sample-product.jpg"]
+    },
+    {
+        "id": 2,
+        "title": "Elegant Dress",
+        "description": "An elegant dress perfect for special occasions.",
+        "price": 49.99,
+        "category": "Women",
+        "images": ["assets/images/sample-product.jpg"]
+    },
+    {
+        "id": 3,
+        "title": "Trendy Sunglasses",
+        "description": "Protect your eyes with these trendy sunglasses.",
+        "price": 29.99,
+        "category": "Accessories",
+        "images": ["assets/images/sample-product.jpg"]
+    }
+]
