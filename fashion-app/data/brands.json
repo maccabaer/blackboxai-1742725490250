@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Brand A",
+        "logo": "assets/images/sample-product.jpg",
+        "description": "Brand A is known for its stylish and modern clothing."
+    },
+    {
+        "id": 2,
+        "name": "Brand B",
+        "logo": "assets/images/sample-product.jpg",
+        "description": "Brand B offers a wide range of fashionable accessories."
+    },
+    {
+        "id": 3,
+        "name": "Brand C",
+        "logo": "assets/images/sample-product.jpg",
+        "description": "Brand C specializes in high-quality men's fashion."
+    }
+]
