@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shopping cart for Fashion App.">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Shopping Cart - Fashion App</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="cart.html">Cart</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="shopping-cart">
+            <h2>Your Shopping Cart</h2>
+            <div class="cart-item">
+                <img src="assets/images/sample-product.jpg" alt="Sample Product">
+                <h3>Product Title</h3>
+                <p>Price: $XX.XX</p>
+                <p>Quantity: <input type="number" value="1" min="1"></p>
+                <button>Remove</button>
+            </div>
+            <!-- More cart items can be added here -->
+            <p>Total: $XX.XX</p>
+            <button>Proceed to Checkout</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Fashion App. All rights reserved.</p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
